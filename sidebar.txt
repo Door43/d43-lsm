@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lsm:home|Door43 (lsm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lsm|d43-lsm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lsm/archive/master.zip|d43-lsm.zip]]
+
+**Recent Changes**
+{{changes>ns = lsm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lsm|Ethnologue data]]
+
